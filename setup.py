@@ -33,9 +33,9 @@ setup(
         # Test-only dependencies should go in test_requirements.txt, not here.
         "grpcio>=1.11.0",
         "h5py>=2.9.0",
-        "jupyter",
+        # "jupyter",
         # "matplotlib",
-        "mlagents_envs==0.10.1",
+        # "mlagents_envs==0.10.1",
         # "numpy>=1.13.3,<2.0",
         "Pillow>=4.2.1",
         "protobuf>=3.6",
